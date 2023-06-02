@@ -1,4 +1,8 @@
 # Reconnaissance des émotions faciales
+
+## Aperçu
+![a](https://github.com/HOUD-FatimaEzzahra/Artificial-Neural-Network-Project/blob/main/test.png)
+
 ## Description du projet 
 La reconnaissance des émotions faciales est un domaine de recherche et d'application important dans le domaine de l'intelligence artificielle. Ce projet vise à créer un système de reconnaissance des émotions en temps réel, capable de détecter les expressions faciales et de les classer en différentes émotions telles que la colère, la joie, la tristesse, etc. Le système utilise des réseaux de neurones convolutifs (CNN) pour extraire des caractéristiques significatives des images faciales et les classifier en différentes catégories d'émotions.
 
